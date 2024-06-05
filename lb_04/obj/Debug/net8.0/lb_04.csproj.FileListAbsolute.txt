@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\lb_04\lb_04\bin\Debug\net8.0\lb_04.exe
+C:\Users\Admin\RiderProjects\lb_04\lb_04\bin\Debug\net8.0\lb_04.deps.json
+C:\Users\Admin\RiderProjects\lb_04\lb_04\bin\Debug\net8.0\lb_04.runtimeconfig.json
+C:\Users\Admin\RiderProjects\lb_04\lb_04\bin\Debug\net8.0\lb_04.dll
+C:\Users\Admin\RiderProjects\lb_04\lb_04\bin\Debug\net8.0\lb_04.pdb
+C:\Users\Admin\RiderProjects\lb_04\lb_04\obj\Debug\net8.0\lb_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\lb_04\lb_04\obj\Debug\net8.0\lb_04.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\lb_04\lb_04\obj\Debug\net8.0\lb_04.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\lb_04\lb_04\obj\Debug\net8.0\lb_04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\lb_04\lb_04\obj\Debug\net8.0\lb_04.dll
+C:\Users\Admin\RiderProjects\lb_04\lb_04\obj\Debug\net8.0\refint\lb_04.dll
+C:\Users\Admin\RiderProjects\lb_04\lb_04\obj\Debug\net8.0\lb_04.pdb
+C:\Users\Admin\RiderProjects\lb_04\lb_04\obj\Debug\net8.0\lb_04.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\lb_04\lb_04\obj\Debug\net8.0\ref\lb_04.dll
